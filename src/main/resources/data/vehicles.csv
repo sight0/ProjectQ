@@ -1,0 +1,15 @@
+plate,type,manufacturer,model,year,fuelType,capacity
+F 84446,Truck,GMC,Sierra,2021,Petrol,90
+O 2029,SUV,Nissan,Patrol,2020,Diesel,100
+A 31234,Coupe,BMW,4 Series,2018,Petrol,60
+B 7856,Hatchback,Honda,Civic,2017,Petrol,50
+C 9087,Convertible,Mercedes-Benz,C-Class,2021,Petrol,70
+H 45321,Truck,Ford,F-150,2018,Diesel,100
+J 9845,Minivan,Chrysler,Pacifica,2019,Petrol,70
+K 5467,Sports,Audi,R8,2020,Petrol,80
+L 12345,Sedan,Lexus,ES,2021,Petrol,60
+M 67890,SUV,Land Rover,Range Rover,2018,Diesel,110
+F 8444,Truck,GMC,Sierra,2021,Petrol,70
+F 844,Truck,GMC,Sierra,2021,Petrol,50
+F 84,Truck,GMC,Sierra,2021,Petrol,60
+F 8,Truck,GMC,Sierra,2021,Petrol,90
